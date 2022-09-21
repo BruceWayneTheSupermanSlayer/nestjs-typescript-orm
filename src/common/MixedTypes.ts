@@ -1,0 +1,1 @@
+export type MixedTypes<T> = T[] | { [key: string]: T };
